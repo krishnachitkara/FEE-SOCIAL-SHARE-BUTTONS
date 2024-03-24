@@ -1,0 +1,238 @@
+.social-buttons {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+  }
+
+.social-buttons li {
+    margin-right: 10px;
+  }
+
+.search-box {
+  text-align: center;
+  position:fixed;
+  margin-bottom: 20px;
+}
+
+.search-box input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+  .fa-facebook {
+  background: #3B5998;
+  color: white;
+  font-size: 90px;
+  margin: 35px;
+  }
+
+  .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  font-size: 90px;
+  margin:35px;
+  }
+
+  .fa-instagram {
+  background: #f09433;
+  color: white;
+  font-size:90px ;
+  margin:35px;
+  }
+  
+  .fa-linkedin {
+  background:#0e76a8;
+  color: white;
+  font-size: 90px;
+  margin:35px;
+  }
+  
+  .fa-pinterest {
+  background: #c8232c;
+  color: white;
+  font-size: 90px;
+  margin:35px;
+  }
+  
+  .fa-whatsapp {
+  background:#25D366;
+  color: white;
+  font-size:90px;
+  margin:35px;
+  }
+  
+  .fa-snapchat {
+  background:#FFFC00;
+  color: white;
+  font-size:90px;
+  margin:35px;
+  }
+  
+  .fa-telegram {
+  background: #0088cc;
+  color: white;
+  font-size:90px;
+  margin:35px;
+  }
+
+  .hero-section h1{
+    color: green;
+  }
+
+  .importance-section{
+    color: orchid;
+  }
+
+  .page h1{
+color:#f09433;
+  }
+
+  .contact h3{
+    color:lightcoral;
+  }
+
+  .fa-youtube {
+  background: #c4302b;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-tumblr {
+  background:  #34526f;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-quora {
+  background: #b92b27;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-meetup {
+  background:#e51937 ;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-stumbleupon {
+  background:#f74425;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-flickr {
+  background: #0063dc;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-medium {
+  background:#66cdaa ;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .fa-reddit {
+  background:#ff4500;
+  color: white;
+  margin:35px;
+  font-size: 90px;
+  }
+  
+  .heading h1{
+  font-size: 50px;
+  color:aliceblue;
+  text-align: center;
+  }
+  
+  .heading{
+  background-image:linear-gradient(90deg,blueviolet,rgb(2,2,99),green);
+  padding:100px 50px;
+  margin: 50px;
+  }
+  
+  .image{
+  background-color: #66cdaa;
+  }
+
+.navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+  }
+
+  .navigation ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .navigation ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+  }
+
+  .navigation ul li a:hover {
+    background-color: #ccc;
+  }
+
+  .page {
+    display: none;
+    font-size: 25px;
+  }
+
+  .page.active {
+    display: block;
+  }
+
+  .importance-section {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .importance-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .importance-item {
+    margin-bottom: 40px;
+  }
+
+  .importance-item img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+
+  .importance-item p {
+    font-size: 18px;
+  }
+
+  .importance-item p {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+  }
+
+  .importance-item p span {
+    display: inline-block;
+    font-size: 28px;
+    font-weight: bold;
+    color: #46a7f5;
+  }
+
